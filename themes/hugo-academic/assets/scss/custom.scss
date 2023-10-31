@@ -1,1 +1,33 @@
 // Override this file to add your own SCSS styling.
+html {
+  font-size: calc(1em - 0.25px);
+}
+
+div.col-md-5 > ul > li, div.col-md-7 > ul > li p {
+    font-size: 1.25em;
+}
+
+div.col-md-5 > ul > li, div.col-md-7 > ul > li p {
+    font-size: 1.25em;
+}
+
+div.col-md-7 ul.ul-edu li .description p {
+    font-size: 1em !important;
+}
+
+$icon-color: #6599bd;
+
+// General styling for all icons
+.fa, .fas, .fab, .far, .fal {
+    color: $icon-color !important;
+}
+
+.ai-cv {
+    color: #6599bd !important;
+}
+
+
+// Override the color for graduation cap
+.fa-graduation-cap {
+    color: inherit !important;
+}

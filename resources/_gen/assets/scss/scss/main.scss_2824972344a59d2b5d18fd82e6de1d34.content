@@ -9173,3 +9173,24 @@ div.mermaid {
  **************************************************/
 html[dir="rtl"] body {
   text-align: right; }
+
+html {
+  font-size: calc(1em - 0.25px); }
+
+div.col-md-5 > ul > li, div.col-md-7 > ul > li p {
+  font-size: 1.25em; }
+
+div.col-md-5 > ul > li, div.col-md-7 > ul > li p {
+  font-size: 1.25em; }
+
+div.col-md-7 ul.ul-edu li .description p {
+  font-size: 1em !important; }
+
+.fa, .fas, .fab, .far, .fal {
+  color: #6599bd !important; }
+
+.ai-cv {
+  color: #6599bd !important; }
+
+.fa-graduation-cap {
+  color: inherit !important; }

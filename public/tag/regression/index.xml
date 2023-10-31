@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>regression | Khwlah Almutair</title>
-    <link>https://kalmutair.github.io/website/tag/regression/</link>
-      <atom:link href="https://kalmutair.github.io/website/tag/regression/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kalmutair.com/tag/regression/</link>
+      <atom:link href="https://kalmutair.com/tag/regression/index.xml" rel="self" type="application/rss+xml" />
     <description>regression</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     <image>
-      <url>https://kalmutair.github.io/website/images/icon_hufef466b915baf80857698405b3e928a6_46377_512x512_fill_lanczos_center_3.png</url>
+      <url>https://kalmutair.com/images/icon_hufef466b915baf80857698405b3e928a6_46377_512x512_fill_lanczos_center_3.png</url>
       <title>regression</title>
-      <link>https://kalmutair.github.io/website/tag/regression/</link>
+      <link>https://kalmutair.com/tag/regression/</link>
     </image>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://kalmutair.github.io/website/post/2015-07-23-r-rmarkdown/</link>
+      <link>https://kalmutair.com/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>https://kalmutair.github.io/website/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>https://kalmutair.com/post/2015-07-23-r-rmarkdown/</guid>
       <description>
 
 
@@ -53,7 +53,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://kalmutair.github.io/website/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://kalmutair.com/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
