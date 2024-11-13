@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Khwlah Almutair
+title: Khwlah Almutair, PhD
 
 # Username (this should match the folder name)
 authors:
@@ -10,19 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate in Economics
+role: Post-doctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: University of Massachusetts at Amherst
+- name: KAPSARC
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Khowlah Almutair is a Ph.D. candidate in Economics at the University of Massachusetts at Amherst.  Fields of interest are  finance, labor economics, and econometrics.  
+bio: Khwlah Almutair is a Postdoctoral researcher in the Oil and Gas program at KAPSARC. She earned her Ph.D in economics at the University of Massachusetts at Amherst.  Fields of interest are  finance, labor economics, and econometrics.  
 
 interests:
  - Finance
- - Labor economics
+ - Oil and Gas Markets
+ - Labor Economics
  - Econometrics
  
 
@@ -30,7 +31,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: University of Massachusetts at Amherst
-    year:  Early 2024 (Expected)
+    year:  May 2024 
   - course: MA in Economics
     institution:  University of Massachusetts at Amherst
     year: 2018  
@@ -79,4 +80,4 @@ user_groups:
 - Visitors
 ---
 
-I'm a Ph.D. candidate in Economics at the University of Massachusetts at Amherst. My fields are in finance, labor economics, and econometrics. My broad research focuses on stock market returns, the impact of liberalization on the financial sector, and the role of Sovereign Wealth Funds. Concurrently, I'm passionate about studying the trends of female participation in the labor market.
+Khwlah Almutair is a Postdoctoral researcher in the Oil and Gas program at KAPSARC. She earned her Ph.D in economics at the University of Massachusetts at Amherst.  My fields are in finance, labor economics, and econometrics. My broad research focuses on stock market returns, the impact of liberalization on the financial sector, and the role of Sovereign Wealth Funds. Concurrently, I'm passionate about studying the trends of female participation in the labor market.
