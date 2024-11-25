@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Khwlah Almutair</title>
+    <link>https://kalmutair.com/publication-type/3/</link>
+      <atom:link href="https://kalmutair.com/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kalmutair.com/images/icon_hufef466b915baf80857698405b3e928a6_46377_512x512_fill_lanczos_center_3.png</url>
+      <title>3</title>
+      <link>https://kalmutair.com/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Job market paper: Beyond Boom and Bust: The Saudi Banking Sector&#39;s Performance Amid Financial Crises</title>
+      <link>https://kalmutair.com/publication/job-market_paper/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://kalmutair.com/publication/job-market_paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Market Liberalization and Price Volatility: Evidence from the Saudi Stock Market</title>
+      <link>https://kalmutair.com/publication/working-paper-1/</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://kalmutair.com/publication/working-paper-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
