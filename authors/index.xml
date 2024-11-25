@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Khwlah Almutair</title>
+    <link>https://kalmutair.com/authors/</link>
+      <atom:link href="https://kalmutair.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kalmutair.com/images/icon_hufef466b915baf80857698405b3e928a6_46377_512x512_fill_lanczos_center_3.png</url>
+      <title>Authors</title>
+      <link>https://kalmutair.com/authors/</link>
+    </image>
+    
+    <item>
+      <title>Job Candidate</title>
+      <link>https://kalmutair.com/author/job-candidate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kalmutair.com/author/job-candidate/</guid>
+      <description>&lt;p&gt;Job candidate is a doctoral candidate in economics at Big Ten University. Job candidate has research interests in health and environmental economics and will be available for interviews for the 2020-2021 job market.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
